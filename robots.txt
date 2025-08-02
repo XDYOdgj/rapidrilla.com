@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rapidrilla.com/sitemap.xml
